@@ -14,9 +14,13 @@ int main()
 
   cout << "Sample arithmetic: " << c;
   
+
+  cout << endl << "WOWOWOWOWOWOWOWOWOWOWOWOWOWOW";
+
   int multiply = c*2;
   
   cout<< multiply;
+
 
   return 0;
 }
