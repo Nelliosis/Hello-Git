@@ -4,11 +4,7 @@ using namespace std;
 int main()
 {
 	int a, b, c;
-	cout<< "Please enter a number: ";
-	cin>> a;
-	
-	cout<< "Please enter a number: ";
-	cin>> b;
+	cin>> a >> b;
 	
 	c = a/b;
 	
