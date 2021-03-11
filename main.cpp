@@ -13,14 +13,14 @@ int main()
   c = a+b;
 
   cout << "Sample arithmetic: " << c;
-  
+
 
   cout << endl << "WOWOWOWOWOWOWOWOWOWOWOWOWOWOW";
 
   int multiply = c*2;
-  
-  cout<< multiply;
 
+  cout<< multiply;
+cout << "WOLOLOL";
 
   return 0;
 }
