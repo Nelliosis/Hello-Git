@@ -13,6 +13,10 @@ int main()
   c = a+b;
 
   cout << "Sample arithmetic: " << c;
+  
+  int multiply = c*2;
+  
+  cout<< multiply;
 
   return 0;
 }
