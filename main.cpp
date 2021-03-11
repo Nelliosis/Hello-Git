@@ -13,6 +13,8 @@ int main()
   c = a+b;
 
   cout << "Sample arithmetic: " << c;
+  
+  cout << endl << "WOWOWOWOWOWOWOWOWOWOWOWOWOWOW";
 
   return 0;
 }
