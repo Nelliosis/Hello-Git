@@ -1,11 +1,15 @@
 #include <iostream>
-#include <fstream>
-#include <string>
-#include <list>
 
 using namespace std;
 
-int main(int argc, char const *argv[]) {
-  cout << "Hello world";
+int main()
+{
+
+string reply;
+
+cout << "hello world";
+cin >> reply;
+cout << "nice!" + reply << endl;
+
   return 0;
 }
